@@ -1,4 +1,4 @@
-<img src="jim.png" height="100"><img src="FameApp/Images.xcassets/Logos/TextLogo_Black.imageset/text_logo_black.png" height=100>
+<img src="text_logo_black.png" height=100>
 
 <img src="promo_2.png" height="457">
 <img src="promo_1.png" height="400">
